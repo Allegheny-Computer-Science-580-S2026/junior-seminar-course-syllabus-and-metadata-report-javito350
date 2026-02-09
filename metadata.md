@@ -68,8 +68,13 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Researcher Name / Project**: Benedek Kaibas / An Automated Differential Testing
 Agent for Python Type Checkers.
 - **Feedback Provided**: It was really good overall, I like the title and the pain, I missed some clarificiations about limitations.
-- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Impact**: I have seen improvement.
 - **Reference**: [\[Link to a GitHub repository's issue tracker\]](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/8)
+
+- **Researcher Name / Project**: Preston Smith / PathMaker:A Tool For Analyzing, Developing and Benchmarking, Path-finding Algorithms.
+- **Feedback Provided**: It was really good overall, good resources I missed the pain a little bit.
+- **Impact**: 
+- **Reference**: [\[Link to a GitHub repository's issue tracker\]](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Poiuy7312/issues/11)
 
 Example entries:
 
