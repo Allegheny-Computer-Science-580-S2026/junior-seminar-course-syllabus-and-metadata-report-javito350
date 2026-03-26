@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-Tackling CNN time overhead for Control of Quality in Factories
+One Shot Detection for Control of Quality in Factories
 ```
 
 ## Research Group Contributions
@@ -75,6 +75,17 @@ Agent for Python Type Checkers.
 - **Feedback Provided**: It was really good overall, good resources I missed the pain a little bit.
 - **Impact**: 
 - **Reference**: [\[Link to a GitHub repository's issue tracker\]](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Poiuy7312/issues/11)
+
+- **Researcher Name / Project**: Aida / Pysealer [17], a tool designed to help protect Python source code
+from unauthorized changes.
+- **Feedback Provided**: It was really good overall, I like the images, and content.
+- **Impact**: 
+- **Reference**: [\[Link to a GitHub repository's issue tracker\]](Issue closed)
+
+- **Researcher Name / Project**: Coltin / The main experiment it is to check if the results in the computer match with the results in Pico device.
+- **Feedback Provided**: Coltin did a great job defining the Research Questions, he just have to finish some of the sections
+- **Impact**: 
+- **Reference**: [\[Link to a GitHub repository's issue tracker\]](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/16)
 
 Example entries:
 
