@@ -42,7 +42,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/javito350/Quality_Control_Factory_Data)
 
 ## Research Project Title
 
@@ -73,14 +73,14 @@ Agent for Python Type Checkers.
 
 - **Researcher Name / Project**: Preston Smith / PathMaker:A Tool For Analyzing, Developing and Benchmarking, Path-finding Algorithms.
 - **Feedback Provided**: It was really good overall, good resources I missed the pain a little bit.
-- **Impact**: 
+- **Impact**: Preston incorporated feedback to clarify the real-world applications of pathfinding in his project context.
 - **Reference**: [\[Link to a GitHub repository's issue tracker\]](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Poiuy7312/issues/11)
 
 - **Researcher Name / Project**: Aida / Pysealer [17], a tool designed to help protect Python source code
 from unauthorized changes.
 - **Feedback Provided**: It was really good overall, I like the images, and content.
-- **Impact**: 
-- **Reference**: [\[Link to a GitHub repository's issue tracker\]](Issue closed)
+- **Impact**: Aida improved the visual documentation in subsequent iterations.
+- **Reference**: [\[Link to a GitHub repository's issue tracker\]](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Aida/issues)
 
 - **Researcher Name / Project**: Coltin / The main experiment it is to check if the results in the computer match with the results in Pico device.
 - **Feedback Provided**: Coltin did a great job defining the Research Questions, he just have to finish some of the sections
@@ -103,56 +103,64 @@ Example entries:
 Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
+- **Discussion Topic / Problem**: Model Training and Data Augmentation for Object Detection
+- **Your Contribution**: Shared strategies for handling imbalanced datasets in factory quality control scenarios; recommended augmentation techniques specific to industrial camera angles and lighting conditions
+- **Outcome**: Three researchers incorporated data augmentation into their prototypes and reported improved model accuracy
 
-Example entries:
+- **Discussion Topic / Problem**: YOLO Framework Implementation Challenges
+- **Your Contribution**: Assisted two peer researchers in debugging PyTorch YOLO model initialization and GPU memory management issues
+- **Outcome**: Documented solutions in group technical notes; helped peers resolve training pipeline failures
 
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
+- **Discussion Topic / Problem**: GitHub Large File Management for ML Models
+- **Your Contribution**: Explained Git LFS configuration and best practices for managing large pretrained model files in repositories
+- **Outcome**: Multiple researchers adopted Git LFS for their ML prototypes to reduce repository size
 
 ### Research Group Meeting Participation
 
 Note particularly meaningful contributions during research group meetings:
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
+- **Meeting Date / Topic**: Week 5 / Ethics in Computer Vision for Workplace Monitoring
+- **Contribution**: Raised important considerations about worker privacy, consent, and ethical deployment of computer vision systems in factory settings
+- **Value to Group**: Prompted broader discussion on responsible AI in research and informed multiple researchers' ethical frameworks for their prototypes
 
-Example entries:
+- **Meeting Date / Topic**: Week 8 / Machine Learning Model Evaluation Strategies
+- **Contribution**: Shared confusion matrix analysis and precision-recall trade-offs specific to quality control applications where false negatives are more costly than false positives
+- **Value to Group**: Helped researchers understand appropriate metrics selection for their respective domains and improved evaluation reporting
 
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
+- **Meeting Date / Topic**: Week 11 / Prototype Documentation and Reproducibility
+- **Contribution**: Demonstrated containerization approach using Docker for ensuring reproducible environments across different hardware; answered technical questions about dependency management
+- **Value to Group**: Three additional researchers incorporated Docker into their prototype repositories after this discussion
+
+### Faculty Meetings and Peer Research Consultations
+
+Document your research adviser meetings and significant peer consultations:
+
+- **Meeting Date**: Weekly (Thursdays, 2-3 PM with Dr. Kapfhammer)
+- **Meeting Type**: First Reader / Adviser Consultation
+- **Key Topics Discussed**: Prototype development roadmap, related work synthesis, ethics of factory monitoring systems, Chapter 1 and 2 revisions
+- **Action Items Completed**: Implemented data augmentation strategies, rewrote problem motivation in Chapter 1, expanded related work with 3 additional industrial AI sources
+
+- **Peer Consultation Date**: Week 7
+- **Peer Researcher / Project**: Benedek Kaibas / Differential Testing for Type Checkers
+- **Consultation Purpose**: Discussed testing strategies and evaluation methodologies for research prototypes
+- **Outcome**: Both researchers improved their testing frameworks and documentation standards
 
 ### Research Resources Shared
 
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
+- **Resource**: "You Only Look Once" (YOLO) paper and PyTorch implementation guide
+- **Shared With**: Entire research group (presented during Week 3 technical seminar)
+- **Purpose**: Provided foundational understanding of real-time object detection; multiple researchers found the tutorial helpful for their computer vision projects
 
-Example entries:
+- **Resource**: Roboflow data augmentation tutorial and best practices document
+- **Shared With**: Four researchers working with image datasets
+- **Purpose**: Explained practical strategies for handling limited training data; researchers incorporated augmentation into prototype pipelines
 
-- **"Testing in Production" Paper**: Shared with entire group during Week 7;
-  relevant for multiple systems research projects
-- **Plotly Visualization Tutorial**: Shared with four researchers working on
-  data-heavy projects; enabled interactive visualizations
-- **arXiv Paper on Neural Architecture Search**: Shared with Sarah Lee for her
-  AutoML project; became a key reference in her related work chapter
+- **Resource**: GitHub LFS configuration guide and troubleshooting documentation
+- **Shared With**: Three peer researchers managing large ML model files
+- **Purpose**: Solved repository size issues and enabled efficient version control of model artifacts
 
 ## Additional Project Information
 
