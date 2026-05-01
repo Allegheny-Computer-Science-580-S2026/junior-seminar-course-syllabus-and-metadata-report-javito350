@@ -84,7 +84,7 @@ from unauthorized changes.
 
 - **Researcher Name / Project**: Coltin / The main experiment it is to check if the results in the computer match with the results in Pico device.
 - **Feedback Provided**: Coltin did a great job defining the Research Questions, he just have to finish some of the sections
-- **Impact**: 
+- **Impact**: I have realize that Coltin has made a great improvement.
 - **Reference**: [\[Link to a GitHub repository's issue tracker\]](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/16)
 
 Example entries:
