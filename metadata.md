@@ -164,7 +164,7 @@ with the research group that helped advance collective knowledge:
 
 ## Additional Project Information
 
-Please use this section to record any other relevant information about your
-Junior Seminar research project, your research process, or any other
-information that your research adviser or the research group coordinator deems
-important for you to document.
+My feedback would be to review the syllabus and metadata file more frequently during class. While we often complete the tasks and requirements discussed in class, there are sometimes additional expectations, checklists, or chapter requirements in the syllabus or metadata file that are easy to overlook. As a result, students may believe they are meeting all expectations, but then feel surprised by lower grades or feedback indicating missing elements.
+
+It would be helpful if the course regularly revisited these materials and explicitly highlighted key requirements, chapter checklists, and expectations throughout the semester. This could improve clarity, help students stay aligned with grading criteria, and make instructor feedback more actionable for improving future submissions.
+
