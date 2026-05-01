@@ -113,7 +113,7 @@ discussions or helped fellow researchers troubleshoot issues:
 
 - **Discussion Topic / Problem**: GitHub Large File Management for ML Models
 - **Your Contribution**: Explained Git LFS configuration and best practices for managing large pretrained model files in repositories
-- **Outcome**: Multiple researchers adopted Git LFS for their ML prototypes to reduce repository size
+- **Outcome**: Kristian Jancy and Gabriel adopted Git LFS for their ML prototypes to reduce repository size
 
 ### Research Group Meeting Participation
 
