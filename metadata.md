@@ -81,7 +81,7 @@ from unauthorized changes.
 - **Feedback Provided**: It was really good overall, I like the images, and content.
 - **Impact**: Aida improved the visual documentation in subsequent iterations.
 - **Reference**: [\[Link to a GitHub repository's issue tracker\]](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-dyga01/issues/11)
-- 
+  
 - **Researcher Name / Project**: Coltin / The main experiment it is to check if the results in the computer match with the results in Pico device.
 - **Feedback Provided**: Coltin did a great job defining the Research Questions, he just have to finish some of the sections
 - **Impact**: I have realize that Coltin has made a great improvement.
